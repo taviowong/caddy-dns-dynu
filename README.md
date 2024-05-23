@@ -1,3 +1,5 @@
+Use [caddy-dns/dynu](https://github.com/caddy-dns/dynu) instead.
+
 Dynu module for Caddy
 ===========================
 
